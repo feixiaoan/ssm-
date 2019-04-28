@@ -36,9 +36,11 @@ function check(){
 		<td></td>
 	</tr>
 	<tr>
+		<!--
    <td background="${pageContext.request.contextPath}/images/rights.jpg"
 		width="740" height="412">
    </td>
+-->
    <td class="login_msg" width="400" align="center">
 	 <!-- margin:0px auto; 控制当前标签居中 -->
 	 <fieldset style="width: auto; margin: 0px auto;">
